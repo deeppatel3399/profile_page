@@ -175,7 +175,7 @@ b
 .technicalpage
 {
     width: 100%;
-    background-image: url('../img/technical.jpg');
+    background-image: url('./img/technical.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     margin-top: 10%;
@@ -186,7 +186,7 @@ b
 }
 .commondetails
 {
-     background-image: url("../img/laptop.jpg");
+     background-image: url("./img/laptop.jpg");
      background-attachment: fixed;
 }
 .leftintropage
